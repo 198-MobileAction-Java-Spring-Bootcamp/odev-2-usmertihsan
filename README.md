@@ -1,3 +1,5 @@
+AS A DB POSTGRESQL USED IN THIS PROJECT.
+
 -------------------- SWAGGER SCREENSHOTS --------------------
 
 
